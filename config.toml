@@ -1,13 +1,13 @@
 baseURL = "https://yourname.netlify.app"
 languageCode = "en-us"
-title = "Research Portfolio | [Your Name]"
+title = "Research Portfolio | [Diq's]"
 theme = "academic"
 
 [params]
-  name = "[Your Full Name]"
+  name = "[Didiq Rosadi Ali]"
   role = "Research Economist | Data Scientist"
-  affiliation = "World Bank | [Your Institution]"
-  email = "your.email@university.edu"
+  affiliation = "Statistics Indonesia"
+  email = "didiqrosadiali@gmail.com"
   googleScholar = "https://scholar.google.com/citations?user=xxxx"
   orcid = "https://orcid.org/xxxx"
   linkedin = "https://linkedin.com/in/yourprofile"
