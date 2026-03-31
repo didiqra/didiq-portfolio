@@ -9,7 +9,6 @@ theme = "academic"
   affiliation = "Statistics Indonesia"
   email = "didiqrosadiali@gmail.com"
   googleScholar = "https://scholar.google.com/citations?user=xxxx"
-  orcid = "https://orcid.org/xxxx"
   linkedin = "https://linkedin.com/in/yourprofile"
 
 [params.colors]
