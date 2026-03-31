@@ -1,1 +1,19 @@
+baseURL = "https://yourname.netlify.app"
+languageCode = "en-us"
+title = "Research Portfolio | [Your Name]"
+theme = "academic"
 
+[params]
+  name = "[Your Full Name]"
+  role = "Research Economist | Data Scientist"
+  affiliation = "World Bank | [Your Institution]"
+  email = "your.email@university.edu"
+  googleScholar = "https://scholar.google.com/citations?user=xxxx"
+  orcid = "https://orcid.org/xxxx"
+  linkedin = "https://linkedin.com/in/yourprofile"
+
+[params.colors]
+  primary = "#1e3a8a"
+  secondary = "#3b82f6"
+  background = "#f8fafc"
+  text = "#1e293b"
